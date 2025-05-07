@@ -1,0 +1,12 @@
+API(Application Programming Interface)
+	promise, that other program or system can connect
+	
+CRUD
+	Create
+		add new data(POST)
+	Read
+		search data(GET)
+	Update
+		modiffy data(PUT)
+	Delete
+		delete data(DELETE)
